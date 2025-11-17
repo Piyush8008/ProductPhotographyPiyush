@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "LoginScreenApp",
-    "slug": "LoginScreenApp",
+    "name": "ProductPhotographyPiyush",
+    "slug": "ProductPhotographyPiyush",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5122a443-1c4f-4032-a57d-7b0888ac1c81"
+      }
+    },
+    "owner": "piyoshh"
   }
 }
